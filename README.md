@@ -14,7 +14,7 @@
 | **SubEnum** | Subdomain enumeration tool | [![Repo](https://img.shields.io/badge/View_SubEnum-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/subenum) |
 | **DirProbe** | Directory brute-forcer | [![Repo](https://img.shields.io/badge/View_DirProbe-EA4335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/dirprobe) |
 | **JSCrawler** | JS analyzer | [![Repo](https://img.shields.io/badge/View_JSCrawler-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/jscrawler) |
-| **ReconMap** | Mapping Recon Files | [![Repo](https://img.shields.io/badge/View_JSCrawler-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/reconmap) |
+| **ReconMap** | Mapping Recon Files | [![Repo](https://img.shields.io/badge/View_ReconMap-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/reconmap) |
 
 ---
 
