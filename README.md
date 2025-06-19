@@ -1,42 +1,43 @@
 # 👋 Hi, I'm Dinakaran A | Security Researcher & Penetration Tester
 
-🔒 **Offensive Security Specialist | Tool Developer | Bug Bounty Hunter**  
+<div align="center">
+🔒 <strong>Offensive Security Specialist | Tool Developer | Bug Bounty Hunter</strong>
+</div>
+
+---
 
 ## 🛠️ My Security Toolkit
 
-| Tool | Description | Stats |
+| Tool | Description | Links |
 |------|-------------|-------|
-| [**Parambuster**](https://github.com/adinakaran/parambuster) | Parameter discovery tool | ![GitHub Stars](https://img.shields.io/github/stars/adinakaran/parambuster) |
-| [**SubEnum**](https://github.com/adinakaran/subenum) | Subdomain enumeration tool | ![GitHub Stars](https://img.shields.io/github/stars/adinakaran/subenum) |
-| [**DirProbe**](https://github.com/adinakaran/dirprobe) | Directory brute-forcer | ![GitHub Stars](https://img.shields.io/github/stars/adinakaran/dirprobe) |
-| [**JSCrawler**](https://github.com/adinakaran/jscrawler) | JS analyzer | ![GitHub Stars](https://img.shields.io/github/stars/adinakaran/jscrawler) |
+| **Parambuster** | Parameter discovery tool | [![Repo](https://img.shields.io/badge/View_Parambuster-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/parambuster) |
+| **SubEnum** | Subdomain enumeration tool | [![Repo](https://img.shields.io/badge/View_SubEnum-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/subenum) |
+| **DirProbe** | Directory brute-forcer | [![Repo](https://img.shields.io/badge/View_DirProbe-EA4335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/dirprobe) |
+| **JSCrawler** | JS analyzer | [![Repo](https://img.shields.io/badge/View_JSCrawler-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/jscrawler) |
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adinakaran&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=issues,contribs&include_all_commits=true)
 
-![Overview Stats](https://github-readme-stats.vercel.app/api?username=adinakaran&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=issues,contribs)
+---
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adinakaran&layout=compact&theme=dark&hide=html,css,scss)
+## 💻 Languages
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adinakaran&layout=compact&theme=dark&hide=html,css,scss)
 
-## 🔥 Featured Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![Parambuster](https://github-readme-stats.vercel.app/api/pin/?username=adinakaran&repo=parambuster&theme=dark)](https://github.com/adinakaran/parambuster)
-
-[![SubEnum](https://github-readme-stats.vercel.app/api/pin/?username=adinakaran&repo=subenum&theme=dark)](https://github.com/adinakaran/subenum)
-
-</div>
+---
 
 ## 📬 Let's Connect
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/dinakaran891)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhinasamp89@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dinakaran891)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinasamp89@gmail.com)
 
 </div>
+
+> *"Automation turns the tedious into the trivial."*
