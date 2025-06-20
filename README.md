@@ -6,6 +6,19 @@
 
 ---
 
+## 🚀 About Me
+
+I'm a passionate security researcher and penetration tester with expertise in offensive security, vulnerability research, and tool development. My focus areas include:
+
+- 🔍 Web application security testing
+- 🤖 Developing automation tools for security research
+- 🐛 Hunting bugs in bug bounty programs
+- 📚 Sharing knowledge through write-ups and open-source tools
+
+I believe in continuous learning and contributing back to the security community through open-source projects and knowledge sharing.
+
+---
+
 ## 🛠️ My Security Toolkit
 
 | Tool | Description | Links |
