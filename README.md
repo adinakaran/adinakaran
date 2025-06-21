@@ -39,14 +39,19 @@ I believe in continuous learning and contributing back to the security community
 
 ## 💻 Languages & Scripting
 
+### Repository Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adinakaran&layout=compact&theme=dark&hide=html,css,scss)
+
+---
+
+### Scripting Proficiencies
 <div align="center">
   
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adinakaran&layout=compact&theme=dark&hide=html,css,scss)
 
 ---
 
