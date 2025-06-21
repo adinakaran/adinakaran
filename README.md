@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dinakaran A | Security Researcher & Penetration Tester
 
-<div align="center">
 🔒 **Offensive Security Specialist | Tool Developer | Bug Bounty Hunter**
-</div>
 
 ---
 
@@ -33,21 +31,12 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 
 ## 🧠 Scripting Proficiency
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-
-<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)-->
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-<!--[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)-->
-<!--[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
-
-</div>
 
 ---
 
 ## 🛠️ My Security Toolkit
-
-<div style="overflow-x: auto; margin-bottom: 25px;">
 
 | Tool        | Description | Links |
 |-------------|-------------|-------|
@@ -57,7 +46,7 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 | **JSCrawler** | JavaScript analysis framework with AST parsing and dynamic execution capabilities for deep endpoint discovery | [![Repo](https://img.shields.io/badge/View_JSCrawler-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/jscrawler) |
 | **ReconMap** | Reconnaissance data correlation engine with visualization capabilities for attack surface mapping | [![Repo](https://img.shields.io/badge/View_ReconMap-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/reconmap) |
 
-</div>
+---
 
 ## 🛠️ Tool Development Philosophy
 
@@ -80,25 +69,21 @@ I focus on creating modular, extensible security tools that solve specific pain 
 
 ## 💼 LinkedIn Activity
 
-<div align="center" style="margin: 20px 0;">
-  <p>Connect with me on LinkedIn to see my professional journey, security insights, and networking activities:</p>
-  [![LinkedIn](https://img.shields.io/badge/Visit_My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
-</div>
+Connect with me on LinkedIn to see my professional journey, security insights, and networking activities:
+
+[![LinkedIn Profile](https://img.shields.io/badge/-View%20My%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
 
 ---
 
 ## ✍️ Medium Activity
 
-<div align="center" style="margin: 20px 0;">
-  <p>Explore my technical write-ups, security research findings, and tutorials on Medium:</p>
-  [![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhinasamp89)
-</div>
+Explore my technical write-ups, security research findings, and tutorials on Medium:
+
+[![Medium Articles](https://img.shields.io/badge/-Read%20My%20Medium%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhinasamp89)
 
 ---
 
 ## 📬 Let's Connect
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 25px 0;">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dinakaran891)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
@@ -106,13 +91,9 @@ I focus on creating modular, extensible security tools that solve specific pain 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhinasamp89@gmail.com)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
-
-<div align="left">
 
 ### 🏆 Profile Overview
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=adinakaran&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&line_height=24&custom_title=Dinakaran's+GitHub+Stats)
@@ -125,8 +106,6 @@ I focus on creating modular, extensible security tools that solve specific pain 
 
 ### 💻 Weekly Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adinakaran&theme=github-dark&area=true&hide_border=true)
-
-</div>
 
 ---
 
