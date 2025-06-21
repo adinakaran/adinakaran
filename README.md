@@ -59,18 +59,15 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 
 </div>
 
-<div align="center" style="margin: 30px 0; line-height: 1.6;">
-  <h3 style="margin-bottom: 15px;">Tool Development Philosophy</h3>
-  <p style="max-width: 800px; margin: 0 auto;">
-    I focus on creating modular, extensible security tools that solve specific pain points in penetration testing workflows. Each tool is designed with:
-    <br><br>
-    • Clean, documented codebases<br>
-    • Configurable operation modes<br> 
-    • Comprehensive logging<br>
-    • Community-driven feature development<br>
-    • Performance-optimized execution
-  </p>
-</div>
+## 🛠️ Tool Development Philosophy
+
+I focus on creating modular, extensible security tools that solve specific pain points in penetration testing workflows. Each tool is designed with:
+
+• Clean, documented codebases  
+• Configurable operation modes  
+• Comprehensive logging  
+• Community-driven feature development  
+• Performance-optimized execution
 
 ---
 
