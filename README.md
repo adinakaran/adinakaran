@@ -96,15 +96,25 @@ Explore my technical write-ups, security research findings, and tutorials on Med
 ## 📊 GitHub Stats
 
 ### 🏆 Profile Overview
+
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=adinakaran&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true&line_height=24&custom_title=Dinakaran's+GitHub+Stats)
 
+<br/><br/>
+
 ### 🏅 Achievements
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adinakaran&theme=darkhub&no-frame=true&margin-w=15&row=2&column=4)
 
+<br/><br/>
+
 ### 📈 Contribution Graph
+
 ![Contribution Graph](https://ghchart.rshah.org/adinakaran)
 
+<br/><br/>
+
 ### 💻 Weekly Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adinakaran&theme=github-dark&area=true&hide_border=true)
 
 ---
