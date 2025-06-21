@@ -47,10 +47,10 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 
 ## 🛠️ My Security Toolkit
 
-<div style="overflow-x: auto">
+<div style="overflow-x: auto; margin-bottom: 25px;">
 
-| Tool | Description | Links |
-|------|-------------|-------|
+| Tool        | Description | Links |
+|-------------|-------------|-------|
 | **Parambuster** | Advanced parameter discovery engine using combinatorial analysis with multiple HTTP methods (GET/POST/PUT) and parameter placement techniques (URL/Headers/Body) | [![Repo](https://img.shields.io/badge/View_Parambuster-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/parambuster) |
 | **SubEnum** | Multi-layered subdomain enumeration system combining DNS brute-forcing, certificate transparency logs, and search engine scraping | [![Repo](https://img.shields.io/badge/View_SubEnum-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/subenum) |
 | **DirProbe** | High-performance directory brute-forcer with intelligent response analysis and content pattern matching | [![Repo](https://img.shields.io/badge/View_DirProbe-EA4335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/dirprobe) |
@@ -59,9 +59,17 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <strong>Tool Development Philosophy:</strong> I focus on creating modular, extensible security tools that solve specific pain points in penetration testing workflows. Each tool is designed with:<br>
-  • Clean, documented codebases • Configurable operation modes • Comprehensive logging • Community-driven feature development
+<div align="center" style="margin: 30px 0; line-height: 1.6;">
+  <h3 style="margin-bottom: 15px;">Tool Development Philosophy</h3>
+  <p style="max-width: 800px; margin: 0 auto;">
+    I focus on creating modular, extensible security tools that solve specific pain points in penetration testing workflows. Each tool is designed with:
+    <br><br>
+    • Clean, documented codebases<br>
+    • Configurable operation modes<br> 
+    • Comprehensive logging<br>
+    • Community-driven feature development<br>
+    • Performance-optimized execution
+  </p>
 </div>
 
 ---
@@ -75,19 +83,25 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 
 ## 💼 LinkedIn Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
+<div align="center" style="margin: 20px 0;">
+  <p>Connect with me on LinkedIn to see my professional journey, security insights, and networking activities:</p>
+  [![LinkedIn](https://img.shields.io/badge/Visit_My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
+</div>
 
 ---
 
 ## ✍️ Medium Activity
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhinasamp89)
+<div align="center" style="margin: 20px 0;">
+  <p>Explore my technical write-ups, security research findings, and tutorials on Medium:</p>
+  [![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhinasamp89)
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 25px 0;">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dinakaran891)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakaran-a-34174b238/)
