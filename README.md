@@ -37,7 +37,14 @@ I believe in continuous learning and contributing back to the security community
 
 ---
 
-## 💻 Languages
+## 💻 Languages & Scripting
+
+<div align="center">
+  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adinakaran&layout=compact&theme=dark&hide=html,css,scss)
 
