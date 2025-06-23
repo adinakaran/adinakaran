@@ -45,6 +45,7 @@ I'm a proactive learner, constantly exploring new attack vectors and defense mec
 | **DirProbe** | High-performance directory brute-forcer with intelligent response analysis and content pattern matching | [![Repo](https://img.shields.io/badge/View_DirProbe-EA4335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinakaran/dirprobe) |
 | **JSCrawler** | JavaScript analysis framework with AST parsing and dynamic execution capabilities for deep endpoint discovery | [![Repo](https://img.shields.io/badge/View_JSCrawler-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/jscrawler) |
 | **ReconMap** | Reconnaissance data correlation engine with visualization capabilities for attack surface mapping | [![Repo](https://img.shields.io/badge/View_ReconMap-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/reconmap) |
+| **Scrap** | The payloads for web vulnerability and containers | [![Repo](https://img.shields.io/badge/View_ReconMap-FBBC05?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adinakaran/scrap) |
 
 ---
 
